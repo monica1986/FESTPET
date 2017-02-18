@@ -1,0 +1,24 @@
+RUTA DE LAS BASES DE DATOS RESPALDADAS
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup
+
+a) Para respaldar las bases:
+
+1.- CLick derecho sobre la base de datos
+2.- Seleccionar "task"
+3.- Seleccionar "Back Up.."
+4.- Sin modificar ninguna opción, dar OK.
+
+Revisar en la ruta de las bases de datos respaldadas archivo .bak.
+
+b) Para cargar las bases de datos respaldadas:
+
+1.- CLick derecho sobre la base de datos
+2.- Seleccionar "task"
+3.- Seleccionar "restore"
+4.- Seleccionar "DataBase"
+5.- Seleccionar en Source: Base de datos (carga las bases de datos alojadas en la ruta indicada anteriormente)
+			   Device (Sólo para restaurar de una ruta externa a la indicada anteriormente)
+
+
+
+

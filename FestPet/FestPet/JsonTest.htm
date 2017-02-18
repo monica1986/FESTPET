@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JSON TEST</title>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#btnBuscar').click(function () {
+                $.ajax(
+                {
+                    url: "Test.asmx/leerMensaje",
+                    method: "post",
+                    dataType: "json",
+                    succes: function (data) {
+                        $('#txtValor').val(data.Contenido);
+                    }
+                });
+            });
+        });
+    </script>
+
+    <style type="text/css">
+        #txtValor {
+            width: 257px;
+        }
+    </style>
+
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                <input type=button id="btnBuscar" value="BUSCAR" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type=text id="txtValor" value="xd" />
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
