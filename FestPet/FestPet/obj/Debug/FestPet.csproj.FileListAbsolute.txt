@@ -38,3 +38,14 @@ C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\FestPet\bin\Datos.pdb
 C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\FestPet\obj\Debug\FestPet.csprojResolveAssemblyReference.cache
 C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\FestPet\obj\Debug\FestPet.dll
 C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\FestPet\obj\Debug\FestPet.pdb
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\bin\FestPet.dll
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\bin\FestPet.pdb
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\bin\Entidad.dll
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\bin\Negocio.dll
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\bin\Datos.dll
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\bin\Entidad.pdb
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\bin\Negocio.pdb
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\bin\Datos.pdb
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\obj\Debug\FestPet.csprojResolveAssemblyReference.cache
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\obj\Debug\FestPet.dll
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\FestPet\obj\Debug\FestPet.pdb

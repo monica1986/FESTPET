@@ -26,3 +26,10 @@ C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\DAO\bin\Debug\Entidad.pdb
 C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
 C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\DAO\obj\Debug\Datos.dll
 C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\DAO\obj\Debug\Datos.pdb
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\DAO\bin\Debug\Datos.dll
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\DAO\bin\Debug\Datos.pdb
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\DAO\bin\Debug\Entidad.dll
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\DAO\bin\Debug\Entidad.pdb
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\DAO\obj\Debug\Datos.dll
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\DAO\obj\Debug\Datos.pdb

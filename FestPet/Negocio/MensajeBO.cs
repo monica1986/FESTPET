@@ -11,9 +11,10 @@ namespace Negocio
     {
         public MensajeDTO muestraMSG()
         {
-            MensajeDTO msg = new MensajeDTO();
-            MensajeDAO msj = new MensajeDAO();
-            return msg = msj.obtenerMensaje();
+            MensajeDTO objMsj = new MensajeDTO();
+            MensajeDAO accMsj = new MensajeDAO();
+            objMsj = accMsj.obtenerMensaje();
+            return objMsj; 
         }
   
     }

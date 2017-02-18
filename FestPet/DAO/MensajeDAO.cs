@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,9 +18,14 @@ namespace DAO
         {
             MensajeDTO msg = null;
             string data = string.Empty;
+            //Instancia base de datos
             SqlConnection conn = new SqlConnection(ConfigurationManager.AppSettings.Get("RIA"));
+            
+            //Abrir Conexión
             conn.Open();
+            //Instancia sql
             SqlCommand cmd = new SqlCommand("SELECT * from Tmensaje", conn);
+            
             SqlDataReader reader = cmd.ExecuteReader();
 
             while (reader.Read())
@@ -33,8 +39,7 @@ namespace DAO
 
             reader.Close();
             conn.Close();
-
-
+            
             return msg;
         }
 

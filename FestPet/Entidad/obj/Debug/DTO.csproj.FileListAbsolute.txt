@@ -15,3 +15,7 @@ C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\Entidad\bin\Debug\Entidad.dll
 C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\Entidad\bin\Debug\Entidad.pdb
 C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\Entidad\obj\Debug\Entidad.dll
 C:\Users\THE-M\Desktop\teiss\FestPet\FestPet\Entidad\obj\Debug\Entidad.pdb
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\Entidad\bin\Debug\Entidad.dll
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\Entidad\bin\Debug\Entidad.pdb
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\Entidad\obj\Debug\Entidad.dll
+C:\Users\THE-M\Desktop\REPOSITORIO_RIA\FESTPET\FestPet\Entidad\obj\Debug\Entidad.pdb
